@@ -1,5 +1,13 @@
 window.videoData = [
   {
+    "id": "d02960d4-769e-4f97-8a8a-5b19ad13ace1",
+    "title": "Jagadhatri 13th January 2026 Episode 64",
+    "description": "",
+    "date": "2026-01-19T10:25:38.119Z",
+    "playlist": "videos/d02960d4-769e-4f97-8a8a-5b19ad13ace1/playlist.m3u8",
+    "thumbnail": "videos/d02960d4-769e-4f97-8a8a-5b19ad13ace1/thumb.jpg"
+  },
+  {
     "id": "4dc4ad6c-7c1e-440b-b28a-c965ac03e4aa",
     "title": "Jagadhatri 11th January 2026 Episode 62",
     "description": "",
